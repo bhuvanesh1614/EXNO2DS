@@ -125,4 +125,4 @@ sns.heatmap(corr1,annot=True)
 
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+        Thus exploratory data analysis on the given data set has been executed successfully.
